@@ -5,7 +5,7 @@ Capstone day one:
 ---Investigate REI website: They appear to use a react frontend so I will try to do the same
 ---Found walkthrough for React with API Server: (https://dev.to/jerodimusprime/building-dynamic-react-apps-with-database-data-3apo)
 ---Spent Friday evening discussing needs and priorities with employee contact
----Planning and whiteboarding
+---Planning and white-boarding
 
 
 # _Capstone REI Rental_
@@ -20,7 +20,7 @@ _This application will allow employees to take customer orders and add them to t
 
 _The primary goals will be an easy access application that sorts wetsuits by availabilty (in, out, available or reserved).  It should also have and 'effective size' catagory for suits which are technically classified as one size, but because of the brand are far close to another.
 
-![](./https://drive.google.com/file/d/1yCDCtDlNL57RyCp9EvNRHBP3vHhj5RKE/view?usp=sharing)
+![](./ )
 
 ## Setup/Installation Requirements
 
