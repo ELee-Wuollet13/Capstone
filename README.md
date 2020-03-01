@@ -20,7 +20,7 @@ _This application will allow employees to take customer orders and add them to t
 
 _The primary goals will be an easy access application that sorts wetsuits by availabilty (in, out, available or reserved).  It should also have and 'effective size' catagory for suits which are technically classified as one size, but because of the brand are far close to another.
 
-![](./ )
+![](./CapstoneOverviewDiagram.jpg)
 
 ## Setup/Installation Requirements
 
