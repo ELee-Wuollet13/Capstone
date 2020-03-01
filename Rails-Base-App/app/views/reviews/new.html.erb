@@ -1,0 +1,42 @@
+<div class="row">
+<div class="col-1">
+</div>
+  <div class="col-6">
+
+
+
+<% if user_signed_in? %>
+
+<% if @review.errors.any? %>
+<h3>Please fix these errors:</h3>
+<ul>
+  <% @review.errors.full_messages.each do |message| %>
+  <li><%= message %></li>
+  <% end %>
+</ul>
+<% end %>
+
+
+<h1>Add a new review:</h1>
+
+
+<%= form_for [@product, @review] do |f| %>
+<%= f.label :author %>
+<%= f.text_field :author %> <br>
+<%= f.label :content %>
+<%= f.text_area :content %> <br>
+<%= f.label :rating  %>
+<%= f.number_field :rating %>
+<p><%= f.submit %></p>
+<% end %>
+
+
+<% else %>
+<p>Sorry, you need to log in to leave a comment</p>
+<% end %>
+</div>
+<div class="col-5">
+  <p><%= link_to "Return to products", products_path %></p>
+
+</div>
+</div>
