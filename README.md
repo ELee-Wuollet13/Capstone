@@ -18,7 +18,7 @@ Capstone day one:
 
 _This application will allow employees to take customer orders and add them to the database of rental orders. It should have a wide array of options for employees to add and sort by store location._
 
-_The primary goals will be an easy access application that sorts wetsuits by availabilty (in, out, available or reserved).  It should also have and 'effective size' catagory for suits which are technically classified as one size, but because of the brand are far close to another.
+_The primary goals will be an easy access application that sorts wetsuits by availability (in, out, available or reserved).  It should also have and 'effective size' category for suits which are technically classified as one size, but because of the brand are far close to another.
 
 ![](./CapstoneOverviewDiagram.jpg)
 
