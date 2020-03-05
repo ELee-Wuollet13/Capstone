@@ -1,12 +1,15 @@
-Capstone day one:
----Reviewed Ruby lessons and Marios project for areas I should focus on in the creation of my projects code.
----Still studying and beginning to program
----Add rails project for possible modification
----Investigate REI website: They appear to use a react frontend so I will try to do the same
----Found walkthrough for React with API Server: (https://dev.to/jerodimusprime/building-dynamic-react-apps-with-database-data-3apo)
----Spent Friday evening discussing needs and priorities with employee contact
----Planning and white-boarding
+##Capstone Work Log:
+####Friday Febuary 28th
+_Reviewed Ruby lessons and Marios project for areas I should focus on in the creation of my projects code._
+_Still studying and beginning to program_
+_Add rails project for possible modification_
+_Investigate REI website: They appear to use a react frontend so I will try to do the same_
+_Found walkthrough for React with API Server: (https://dev.to/jerodimusprime/building-dynamic-react-apps-with-database-data-3apo)_
+_Spent Friday evening discussing needs and priorities with employee contact_
+_Planning and white-boarding_
 
+####Thursday march 5th
+_Began building rails Database_
 
 # _Capstone REI Rental_
 
